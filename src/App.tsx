@@ -212,6 +212,14 @@ function App() {
 
   const noticias: Noticia[] = [
     {
+      titulo: "Presentación del Índice de Percepción Ciudadana (IPC-UTEPSA)",
+      fecha: "Julio 2026",
+      resumen: "UTEPSA presentó la primera medición del Índice de Percepción Ciudadana (IPC-UTEPSA), una investigación académica desarrollada por la carrera de Ingeniería Comercial a través del Observatorio de Coyuntura y Asuntos Internacionales.",
+      contenidoCompleto: "UTEPSA anunció la primera medición del Índice de Percepción Ciudadana (IPC-UTEPSA), una investigación académica desarrollada por la carrera de Ingeniería Comercial a través del Observatorio de Coyuntura y Asuntos Internacionales.\n\nLa presentación estuvo a cargo de Jean Paul Guzmán, Jefe de Carrera de Ingeniería Comercial, y Hugo Villegas, docente investigador.\n\nCon este proyecto, la universidad reafirma su compromiso con la generación de conocimiento útil para la sociedad y con el análisis de la percepción ciudadana en Santa Cruz de la Sierra.",
+      imagen: "/noticia_ipc_utepsa.jpg",
+      enlace: "https://www.facebook.com/UTEPSA/posts/1510360591130274/"
+    },
+    {
       titulo: "Mercenarios, diplomacia y la privatización de la guerra: el desafío que Bolivia no puede ignorar",
       fecha: "Julio 2026",
       resumen: "El Lic. Miguel Francisco Jiménez Canido, Analista del Observatorio de Coyuntura y Asuntos Internacionales, analiza la privatización del conflicto armado a partir del caso de ciudadanos bolivianos presuntamente vinculados a fuerzas militares rusas en Ucrania, y su desafío para la diplomacia boliviana.",
