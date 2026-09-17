@@ -212,6 +212,14 @@ function App() {
 
   const noticias: Noticia[] = [
     {
+      titulo: "88 años después: la frontera Bolivia-Paraguay y sus lecciones para las Relaciones Internacionales",
+      fecha: "Septiembre 2026",
+      resumen: "La Lic. Elena M. Camacho Quintela, Directora del Observatorio de Coyuntura y Asuntos Internacionales, analiza la conclusión de la demarcación fronteriza entre Bolivia y Paraguay tras 88 años, y sus lecciones para las Relaciones Internacionales.",
+      contenidoCompleto: "Por Lic. Elena M. Camacho Quintela, Directora del Observatorio de Coyuntura y Asuntos Internacionales de UTEPSA.\n\nBolivia y Paraguay culminaron la demarcación de su frontera de 742 kilómetros tras 88 años de trabajo técnico a través de una comisión bilateral, un proceso iniciado después de la devastadora Guerra del Chaco (1932-1935), que dejó cerca de 90.000 víctimas entre ambos bandos.\n\nEl artículo analiza este hito desde tres enfoques teóricos: el institucionalismo liberal, que muestra cómo los mecanismos bilaterales sostienen la cooperación pese a los vaivenes políticos; la geopolítica clásica, que aborda la certeza territorial para naciones mediterráneas; y el constructivismo, que transforma la memoria de la guerra en narrativas de cooperación.\n\nEl momento tiene una relevancia estratégica particular por proyectos de infraestructura regional como el Corredor Bioceánico, que requiere fronteras claramente demarcadas para la planificación de inversiones y logística. La autora destaca que la \"diplomacia de baja intensidad\" ejercida a través de comisiones técnicas logra resultados sustanciales a largo plazo, una lección importante para las Relaciones Internacionales sobre cómo las naciones resuelven disputas históricas mediante marcos institucionales sostenidos en el tiempo, más que a través de cumbres diplomáticas de alto perfil.",
+      imagen: "/noticia_frontera_bolivia_paraguay.jpg",
+      enlace: "https://v3.utepsa.edu/index.php/universidad/noticias/493-88-anos-despues-la-frontera-bolivia-paraguay"
+    },
+    {
       titulo: "Presentación del Índice de Percepción Ciudadana (IPC-UTEPSA)",
       fecha: "Julio 2026",
       resumen: "UTEPSA presentó la primera medición del Índice de Percepción Ciudadana (IPC-UTEPSA), una investigación académica desarrollada por la carrera de Ingeniería Comercial a través del Observatorio de Coyuntura y Asuntos Internacionales.",
